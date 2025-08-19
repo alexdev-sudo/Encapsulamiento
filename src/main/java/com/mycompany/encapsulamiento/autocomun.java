@@ -8,6 +8,7 @@ package com.mycompany.encapsulamiento;
  *
  * @author Ezequiel Castro
  */
-public class autocomun {
+public class autocomun extends automovil{
+    
     
 }
