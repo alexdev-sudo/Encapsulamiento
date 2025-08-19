@@ -24,6 +24,7 @@ public void frenar(int decremento){
         System.out.println("el automovil freno a : "+ velocidad +" Km/H");
         
     }
+
             
 }    
 

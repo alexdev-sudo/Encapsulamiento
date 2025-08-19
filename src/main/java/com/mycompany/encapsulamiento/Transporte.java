@@ -19,7 +19,7 @@ public abstract class Transporte{
         System.out.println("marca :" + marca +"|velocidad: " + velocidad );
     }
         //metodos abstractos para que las subclases lo implementen
-    abstract void aceledrar(int incremento);
+    abstract void acelerar(int incremento);
     abstract void frenar (int decremento);
     // implementacion de de los metodos de la interfaz acciones
     public void estacionar(){
