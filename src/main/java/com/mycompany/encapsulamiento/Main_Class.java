@@ -5,7 +5,7 @@ package com.mycompany.encapsulamiento;
  *
  * @author Ezequiel Castro
  */
-public class Main {
+public class Main_Class {
 
     public static void main(String[] args) {
         autocomun carro = new autocomun("Toyota");
