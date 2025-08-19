@@ -12,10 +12,7 @@ interface acciones{
 acelerar()
 frenar()
 }
-class automovil 
-automovil o-- acciones
-class frenar implements acciones
-class acelerar implements acciones
+class automovil implements acciones
 class carrojuguete extends automovil
 class autocomun extends automovil
 
