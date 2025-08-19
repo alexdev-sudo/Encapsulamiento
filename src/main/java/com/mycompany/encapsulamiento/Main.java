@@ -13,6 +13,7 @@ public class Main {
         System.out.println("carro comun ");
         carro.mostrarinfo();
         carro.acelerar(20);
+        carro.acelerar();
         carro.frenar(10);
         carro.estacionar();
         carro.bocinar();
